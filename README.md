@@ -1,0 +1,2 @@
+# LastScript
+gg
