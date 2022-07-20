@@ -6,5 +6,5 @@ elseif game.PlaceId == 537413528 then
 elseif game.PlaceId == 4587545091 or game.PlaceId == 7258239416 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/idkfffff/VietNamPiece-Fucker/main/BadHub.lua'))()
 else
-    game.Players.LocalPlayer:Kick("Not Support For That Game")
+    game.Players.LocalPlayer:Kick("No Support For Thí Game")
 end
